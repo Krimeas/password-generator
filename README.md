@@ -8,9 +8,9 @@ Password Generator Completion: Complete random password generator with specifics
 ## Password Generator
 Password generator generats password within 8-128 characters in length or throws errors. When you click the generate password button a series of prompts will as you to answer ok/cancel to 
 
-https://krimeas.github.io/First-Portfolio/
+https://krimeas.github.io/password-generator/
 
-![Portfolio](/challenges/challenge-03/password-generator/Assets/Capture.JPG)
+![Portfolio](/Assets/Capture.JPG)
 
 
 ------------------------------------------------------------
